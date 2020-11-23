@@ -30,3 +30,4 @@ public class PointDemo {
         System.out.println("Translated point 1 equals point 5: " + point1.equals(point5));
     }
 }
+
